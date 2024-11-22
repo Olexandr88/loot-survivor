@@ -20,7 +20,7 @@ Play [Loot Survivor](https://goerli-survivor.realms.world/)
 
 Table of contents
 
-- [Game Design](#🕹️-game-design)
+🕹️- [Game Design](#🕹️-game-design)
 - [Technology](#⛓️-technology)
 - [Infrastructure](#🖥️-infrastructure)
 - [Contributing](#🏗️-contributing)
